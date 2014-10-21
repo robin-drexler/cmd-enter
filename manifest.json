@@ -1,6 +1,6 @@
 {
-    "name": "My awesome extension :)",
-    "version": "0.1",
+    "name": "CMD Enter",
+    "version": "0.0.1",
     "icons": { 
         "16": "/img/icons/icon_16.png",
         "48": "/img/icons/icon_48.png",
@@ -8,9 +8,7 @@
     },
 
     "description": "Yay, I'm so useless.",
-    "permissions": [
-        "geolocation"
-    ],
+
 
     "content_scripts": [
         {
